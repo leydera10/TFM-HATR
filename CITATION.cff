@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si usas este repositorio, por favor cita como se indica."
+title: "TFM-HATR: Predicción de la curva de carga de transformadores con aprendizaje online (HATR)"
+abstract: "Código del Trabajo Fin de Máster para modelado horario de carga de transformadores usando Hoeffding Adaptive Tree Regressor (River), con evaluación por meses y análisis por variabilidad."
+authors:
+  - family-names: "Asis González"
+    given-names: "Leider Javier"
+    affiliation: "Colombia"
+    email: "leiderasis30@gmail.com"  
+repository-code: "https://github.com/leydera10/TFM-HATR"
+license: "MIT"
+keywords:
+  - "TFM"
+  - "HATR"
+  - "River"
+  - "Concept drift"
+  - "Series temporales"
+  - "Transformadores"
+date-released: "2025-08-30"
+version: "1.0.0"
